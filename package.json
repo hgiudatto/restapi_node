@@ -1,0 +1,15 @@
+{
+  "name": "restapi_node",
+  "version": "1.0.0",
+  "description": "Docker % Node JS. Aplicacion de Node JS en Docker Container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/hgiudatto/restapi_node.git",
+  "author": "hgiudatto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
